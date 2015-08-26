@@ -1,0 +1,10 @@
+name: Credits
+main: me.mdspace.credits.Credits
+version: 1.0
+description: Credits
+author: MDS
+commands:
+  credits:
+    description: Main Credits plugin
+  shop:
+    description: Shop GUI for credits
